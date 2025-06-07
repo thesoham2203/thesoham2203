@@ -4,16 +4,20 @@
 **YOOO!!!**
 
 name: Soham 
+
 role: Final Year AI & DS Undergrad  
+
 interests:
   - Artificial Intelligence
   - Responsible Data Sharing
   - Deep Learning (CV, NLP)
   - Cybersecurity & Ethical Hacking
   - Privacy-First Architectures
+
 education:
   institute: K. K. Wagh Institute of Engineering Education & Research
   major: Artificial Intelligence & Data Science
+
 tools:
   - Python, FastAPI, MongoDB, PostgreSQL
   - TensorFlow, PyTorch, OpenCV, Transformers
