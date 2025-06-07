@@ -1,7 +1,9 @@
+<p align="center">
+  <img src=![yoo](https://github.com/user-attachments/assets/3162eac2-4353-44ff-9fda-1559fa572012) width="400" height="300" />
+</p>
 
-![yoo](https://github.com/user-attachments/assets/3162eac2-4353-44ff-9fda-1559fa572012)
 
-###**YOOO!!!**
+**YOOO!!!**
 
 
 
@@ -9,7 +11,7 @@
 
 
 name: Soham Penshanwar
-role: Final Year AI & DS Undergrad
+role: Final Year AI & DS Undergrad  
 interests:
   - Artificial Intelligence
   - Responsible Data Sharing
@@ -77,5 +79,5 @@ A project aimed at recognizing Indian Sign Language gestures using computer visi
 </p>
 
 ---
->*****“Code is poetry, and every repository a stanza in your legacy.”**
+**“Code is poetry, and every repository a stanza in your legacy.”**
 ```
