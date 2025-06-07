@@ -40,13 +40,6 @@ github.com
 Indian Sign Language Recognition System
 A project aimed at recognizing Indian Sign Language gestures using computer vision techniques. It facilitates communication for the hearing and speech impaired by translating sign language into text or speech.
 
-### 🧠 [ArchiveMind](https://github.com/thesoham2203)
-
-> **Legacy Data Extraction using OCR + NLP**
-> 🔸 95%+ Accuracy for PDF/Scanned Image Conversion
-> 🔸 SHA-256 Integrity Check | AES-256 Encryption
-> 🔸 Multi-language NLP | Smart Contract Access Control
-
 ---
 
 ## 🛠️ Tech Stack
@@ -79,11 +72,10 @@ A project aimed at recognizing Indian Sign Language gestures using computer visi
 
 <p align="center">
   <a href="https://linkedin.com/in/soham-penshanwar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:sohampenshanwar2203@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="mailto:sohampilot0@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://github.com/thesoham2203"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" /></a>
 </p>
 
 ---
-
-<p align="center"><i>"Code is poetry, and every repo a stanza in your legacy."</i></p>
+>*****“Code is poetry, and every repository a stanza in your legacy.”**
 ```
