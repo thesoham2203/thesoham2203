@@ -1,16 +1,7 @@
-<p align="center">
-  <img src=![yoo](https://github.com/user-attachments/assets/3162eac2-4353-44ff-9fda-1559fa572012) width="400" height="300" />
-</p>
-
-
+![yoo](https://github.com/user-attachments/assets/548c4b97-013d-4271-bde4-2c55b89c026b)
 **YOOO!!!**
 
-
-
-## 🧠 About Me
-
-
-name: Soham Penshanwar
+name: Soham 
 role: Final Year AI & DS Undergrad  
 interests:
   - Artificial Intelligence
