@@ -1,15 +1,11 @@
-````markdown
-<h1 align="center">Hey there! 👋 I'm Soham Penshanwar</h1>
+**YOOO!!!**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=8D3DAF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Data+Security+Enthusiast;Open+Source+Contributor+%7C+FastAPI+Lover;Hackathons+%7C+DSA+%7C+Deep+Learning+%7C+Poetry" alt="Typing SVG" />
-</p>
+---![alarm](https://github.com/user-attachments/assets/18d31fa1-e309-4d45-9360-1678577ff742)
 
----
 
 ## 🧠 About Me
 
-```yaml
+
 name: Soham Penshanwar
 role: Final Year AI & DS Undergrad
 interests:
@@ -25,7 +21,6 @@ tools:
   - Python, FastAPI, MongoDB, PostgreSQL
   - TensorFlow, PyTorch, OpenCV, Transformers
   - ClamAV, Kali Linux, OpenRefine, Tesseract
-````
 
 ---
 
